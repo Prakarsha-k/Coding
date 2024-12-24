@@ -12,4 +12,4 @@ class Solution(object):
                 high-=1
             else:
                 mid+=1
-    
+        return nums
