@@ -116,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Prakarsha-k/Coding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prakarsha-k/Coding/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prakarsha-k/Coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Prakarsha-k/Coding/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
