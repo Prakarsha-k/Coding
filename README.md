@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Prakarsha-k/Coding/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Prakarsha-k/Coding/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Prakarsha-k/Coding/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prakarsha-k/Coding/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Prakarsha-k/Coding/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Prakarsha-k/Coding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prakarsha-k/Coding/tree/master/0268-missing-number) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Prakarsha-k/Coding/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Prakarsha-k/Coding/tree/master/0169-majority-element) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Prakarsha-k/Coding/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Sliding Window
 |  |
 | ------- |
