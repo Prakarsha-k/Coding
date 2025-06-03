@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Prakarsha-k/Coding/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Prakarsha-k/Coding/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Prakarsha-k/Coding/tree/master/1013-fibonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prakarsha-k/Coding/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prakarsha-k/Coding/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Prakarsha-k/Coding/tree/master/0485-max-consecutive-ones) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Prakarsha-k/Coding/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
