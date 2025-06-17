@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Prakarsha-k/Coding/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Prakarsha-k/Coding/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Prakarsha-k/Coding/tree/master/0392-is-subsequence) |
+| [0657-robot-return-to-origin](https://github.com/Prakarsha-k/Coding/tree/master/0657-robot-return-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Prakarsha-k/Coding/tree/master/0657-robot-return-to-origin) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prakarsha-k/Coding/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Enumeration
 |  |
