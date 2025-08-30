@@ -1,17 +1,20 @@
-class Solution(object):
-    def longestPalindrome(self, s):
-        max_sub=s[0]
-        for i in range(0,len(s)):
-            for j in range(i+1,len(s)+1):
-                cur_sub=s[i:j]
-                rev_sub=cur_sub[::-1]
-                if rev_sub==cur_sub and len(cur_sub)>len(max_sub):
-                    max_sub=cur_sub             
-        if (max_sub):
-            return max_sub
-        else:
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        if s=="" or len(s)==0:
             return ""
-
-            
-            
+        start,end=0,0
+        for i in range(0,len(s)):
+            l,r=i,i
+            while l>=0 and r<len(s) and s[l]==s[r]:
+                if (r-l)>end-start:
+                    start,end=l,r
+                l-=1
+                r+=1
+            l,r=i,i+1
+            while l>=0 and r<len(s) and s[l]==s[r]:
+                if (r-l)>end-start:
+                    start,end=l,r
+                l-=1
+                r+=1
+        return s[start:end+1]
         
