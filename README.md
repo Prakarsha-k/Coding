@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Prakarsha-k/Coding/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Prakarsha-k/Coding/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Prakarsha-k/Coding/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -346,12 +347,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Prakarsha-k/Coding/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Prakarsha-k/Coding/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Prakarsha-k/Coding/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Prakarsha-k/Coding/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Prakarsha-k/Coding/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Prakarsha-k/Coding/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Prakarsha-k/Coding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Prakarsha-k/Coding/tree/master/0210-course-schedule-ii) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Prakarsha-k/Coding/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Prakarsha-k/Coding/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Prakarsha-k/Coding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Prakarsha-k/Coding/tree/master/0210-course-schedule-ii) |
