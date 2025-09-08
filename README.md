@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Prakarsha-k/Coding/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Prakarsha-k/Coding/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Prakarsha-k/Coding/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Prakarsha-k/Coding/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Prakarsha-k/Coding/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Prakarsha-k/Coding/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Prakarsha-k/Coding/tree/master/0066-plus-one) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Prakarsha-k/Coding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Prakarsha-k/Coding/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Prakarsha-k/Coding/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Prakarsha-k/Coding/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Prakarsha-k/Coding/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Prakarsha-k/Coding/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Prakarsha-k/Coding/tree/master/0205-isomorphic-strings) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Prakarsha-k/Coding/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Prakarsha-k/Coding/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prakarsha-k/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Prakarsha-k/Coding/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Prakarsha-k/Coding/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Prakarsha-k/Coding/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Prakarsha-k/Coding/tree/master/0151-reverse-words-in-a-string) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Prakarsha-k/Coding/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Prakarsha-k/Coding/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Prakarsha-k/Coding/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Prakarsha-k/Coding/tree/master/0169-majority-element) |
