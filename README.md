@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Prakarsha-k/Coding/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/Prakarsha-k/Coding/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Prakarsha-k/Coding/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Prakarsha-k/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Prakarsha-k/Coding/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Prakarsha-k/Coding/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Prakarsha-k/Coding/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Prakarsha-k/Coding/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/Prakarsha-k/Coding/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Prakarsha-k/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Prakarsha-k/Coding/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/Prakarsha-k/Coding/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Prakarsha-k/Coding/tree/master/0383-ransom-note) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Prakarsha-k/Coding/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Prakarsha-k/Coding/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/Prakarsha-k/Coding/tree/master/0213-house-robber-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Prakarsha-k/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/Prakarsha-k/Coding/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Prakarsha-k/Coding/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -179,12 +182,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Prakarsha-k/Coding/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Prakarsha-k/Coding/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Prakarsha-k/Coding/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Prakarsha-k/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Prakarsha-k/Coding/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Prakarsha-k/Coding/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Prakarsha-k/Coding/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Prakarsha-k/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Prakarsha-k/Coding/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
