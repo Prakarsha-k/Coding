@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Prakarsha-k/Coding/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Prakarsha-k/Coding/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Prakarsha-k/Coding/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/Prakarsha-k/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Prakarsha-k/Coding/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Prakarsha-k/Coding/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prakarsha-k/Coding/tree/master/0283-move-zeroes) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prakarsha-k/Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Prakarsha-k/Coding/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prakarsha-k/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Prakarsha-k/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Prakarsha-k/Coding/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prakarsha-k/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Prakarsha-k/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Prakarsha-k/Coding/tree/master/0219-contains-duplicate-ii) |
 ## Greedy
 |  |
@@ -339,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Prakarsha-k/Coding/tree/master/0207-course-schedule) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Prakarsha-k/Coding/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
