@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Prakarsha-k/Coding/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Prakarsha-k/Coding/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Prakarsha-k/Coding/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Prakarsha-k/Coding/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Prakarsha-k/Coding/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prakarsha-k/Coding/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Prakarsha-k/Coding/tree/master/0204-count-primes) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Prakarsha-k/Coding/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Prakarsha-k/Coding/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Prakarsha-k/Coding/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/Prakarsha-k/Coding/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Prakarsha-k/Coding/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prakarsha-k/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prakarsha-k/Coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -286,4 +288,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Prakarsha-k/Coding/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Prakarsha-k/Coding/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Prakarsha-k/Coding/tree/master/0131-palindrome-partitioning) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Prakarsha-k/Coding/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Prakarsha-k/Coding/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Prakarsha-k/Coding/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
