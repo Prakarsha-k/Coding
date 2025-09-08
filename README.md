@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Prakarsha-k/Coding/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Prakarsha-k/Coding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Prakarsha-k/Coding/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Prakarsha-k/Coding/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Prakarsha-k/Coding/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Prakarsha-k/Coding/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Prakarsha-k/Coding/tree/master/0070-climbing-stairs) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Prakarsha-k/Coding/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Prakarsha-k/Coding/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prakarsha-k/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Prakarsha-k/Coding/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Prakarsha-k/Coding/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Prakarsha-k/Coding/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Prakarsha-k/Coding/tree/master/0125-valid-palindrome) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Prakarsha-k/Coding/tree/master/0043-multiply-strings) |
 | [0657-robot-return-to-origin](https://github.com/Prakarsha-k/Coding/tree/master/0657-robot-return-to-origin) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prakarsha-k/Coding/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Enumeration
