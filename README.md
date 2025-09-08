@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prakarsha-k/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Prakarsha-k/Coding/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prakarsha-k/Coding/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Prakarsha-k/Coding/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Prakarsha-k/Coding/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Prakarsha-k/Coding/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Prakarsha-k/Coding/tree/master/0268-missing-number) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Prakarsha-k/Coding/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Prakarsha-k/Coding/tree/master/0200-number-of-islands) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 ## Linked List
 |  |
@@ -314,8 +316,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Prakarsha-k/Coding/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Prakarsha-k/Coding/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Prakarsha-k/Coding/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Prakarsha-k/Coding/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Prakarsha-k/Coding/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Prakarsha-k/Coding/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
