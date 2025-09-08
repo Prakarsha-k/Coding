@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Prakarsha-k/Coding/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Prakarsha-k/Coding/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Prakarsha-k/Coding/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/Prakarsha-k/Coding/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Prakarsha-k/Coding/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prakarsha-k/Coding/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Prakarsha-k/Coding/tree/master/0485-max-consecutive-ones) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Prakarsha-k/Coding/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Prakarsha-k/Coding/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Prakarsha-k/Coding/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Prakarsha-k/Coding/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Prakarsha-k/Coding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prakarsha-k/Coding/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Prakarsha-k/Coding/tree/master/0299-bulls-and-cows) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Prakarsha-k/Coding/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Prakarsha-k/Coding/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prakarsha-k/Coding/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Prakarsha-k/Coding/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Prakarsha-k/Coding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prakarsha-k/Coding/tree/master/0268-missing-number) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Prakarsha-k/Coding/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Prakarsha-k/Coding/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Prakarsha-k/Coding/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Prakarsha-k/Coding/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Prakarsha-k/Coding/tree/master/0383-ransom-note) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Prakarsha-k/Coding/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
