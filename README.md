@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Prakarsha-k/Coding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Prakarsha-k/Coding/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Prakarsha-k/Coding/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Prakarsha-k/Coding/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prakarsha-k/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Prakarsha-k/Coding/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Prakarsha-k/Coding/tree/master/0058-length-of-last-word) |
@@ -237,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Prakarsha-k/Coding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prakarsha-k/Coding/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prakarsha-k/Coding/tree/master/0160-intersection-of-two-linked-lists) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Prakarsha-k/Coding/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
