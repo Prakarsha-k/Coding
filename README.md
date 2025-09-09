@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Prakarsha-k/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Prakarsha-k/Coding/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Prakarsha-k/Coding/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Prakarsha-k/Coding/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prakarsha-k/Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Prakarsha-k/Coding/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Prakarsha-k/Coding/tree/master/0118-pascals-triangle) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Prakarsha-k/Coding/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Prakarsha-k/Coding/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Prakarsha-k/Coding/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Prakarsha-k/Coding/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Prakarsha-k/Coding/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Prakarsha-k/Coding/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Prakarsha-k/Coding/tree/master/0131-palindrome-partitioning) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Prakarsha-k/Coding/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Prakarsha-k/Coding/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Prakarsha-k/Coding/tree/master/0200-number-of-islands) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 ## Linked List
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Prakarsha-k/Coding/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Prakarsha-k/Coding/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Prakarsha-k/Coding/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Prakarsha-k/Coding/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Prakarsha-k/Coding/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Prakarsha-k/Coding/tree/master/0216-combination-sum-iii) |
 ## Tree
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Prakarsha-k/Coding/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Prakarsha-k/Coding/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Prakarsha-k/Coding/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/0104-maximum-depth-of-binary-tree) |
