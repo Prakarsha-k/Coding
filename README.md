@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Prakarsha-k/Coding/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/Prakarsha-k/Coding/tree/master/0870-magic-squares-in-grid) |
 | [0888-mirror-reflection](https://github.com/Prakarsha-k/Coding/tree/master/0888-mirror-reflection) |
+| [0897-prime-palindrome](https://github.com/Prakarsha-k/Coding/tree/master/0897-prime-palindrome) |
 | [1013-fibonacci-number](https://github.com/Prakarsha-k/Coding/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Array
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Prakarsha-k/Coding/tree/master/0204-count-primes) |
 | [0888-mirror-reflection](https://github.com/Prakarsha-k/Coding/tree/master/0888-mirror-reflection) |
+| [0897-prime-palindrome](https://github.com/Prakarsha-k/Coding/tree/master/0897-prime-palindrome) |
 ## Matrix
 |  |
 | ------- |
