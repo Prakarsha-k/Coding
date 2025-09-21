@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/Prakarsha-k/Coding/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Prakarsha-k/Coding/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/Prakarsha-k/Coding/tree/master/0909-stone-game) |
+| [0917-boats-to-save-people](https://github.com/Prakarsha-k/Coding/tree/master/0917-boats-to-save-people) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Prakarsha-k/Coding/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Prakarsha-k/Coding/tree/master/0874-backspace-string-compare) |
 | [0875-longest-mountain-in-array](https://github.com/Prakarsha-k/Coding/tree/master/0875-longest-mountain-in-array) |
+| [0917-boats-to-save-people](https://github.com/Prakarsha-k/Coding/tree/master/0917-boats-to-save-people) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prakarsha-k/Coding/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Prakarsha-k/Coding/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Prakarsha-k/Coding/tree/master/0883-car-fleet) |
 | [0900-reordered-power-of-2](https://github.com/Prakarsha-k/Coding/tree/master/0900-reordered-power-of-2) |
+| [0917-boats-to-save-people](https://github.com/Prakarsha-k/Coding/tree/master/0917-boats-to-save-people) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Prakarsha-k/Coding/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Divide and Conquer
 |  |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/Prakarsha-k/Coding/tree/master/0376-wiggle-subsequence) |
 | [0876-hand-of-straights](https://github.com/Prakarsha-k/Coding/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Prakarsha-k/Coding/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/Prakarsha-k/Coding/tree/master/0917-boats-to-save-people) |
 ## Database
 |  |
 | ------- |
