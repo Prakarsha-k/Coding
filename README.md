@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Prakarsha-k/Coding/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Prakarsha-k/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Prakarsha-k/Coding/tree/master/0268-missing-number) |
+| [0867-new-21-game](https://github.com/Prakarsha-k/Coding/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/Prakarsha-k/Coding/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Array
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/Prakarsha-k/Coding/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Prakarsha-k/Coding/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Prakarsha-k/Coding/tree/master/0392-is-subsequence) |
+| [0867-new-21-game](https://github.com/Prakarsha-k/Coding/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/Prakarsha-k/Coding/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prakarsha-k/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prakarsha-k/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Prakarsha-k/Coding/tree/master/0219-contains-duplicate-ii) |
+| [0867-new-21-game](https://github.com/Prakarsha-k/Coding/tree/master/0867-new-21-game) |
 ## Greedy
 |  |
 | ------- |
@@ -438,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Prakarsha-k/Coding/tree/master/0374-guess-number-higher-or-lower) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/Prakarsha-k/Coding/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
