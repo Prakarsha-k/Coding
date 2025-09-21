@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Prakarsha-k/Coding/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Prakarsha-k/Coding/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Prakarsha-k/Coding/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Prakarsha-k/Coding/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Prakarsha-k/Coding/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Prakarsha-k/Coding/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prakarsha-k/Coding/tree/master/0202-happy-number) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Prakarsha-k/Coding/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Prakarsha-k/Coding/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Prakarsha-k/Coding/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Prakarsha-k/Coding/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Prakarsha-k/Coding/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Prakarsha-k/Coding/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Prakarsha-k/Coding/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Prakarsha-k/Coding/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Prakarsha-k/Coding/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Prakarsha-k/Coding/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Prakarsha-k/Coding/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/Prakarsha-k/Coding/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Prakarsha-k/Coding/tree/master/0216-combination-sum-iii) |
 | [0986-largest-time-for-given-digits](https://github.com/Prakarsha-k/Coding/tree/master/0986-largest-time-for-given-digits) |
