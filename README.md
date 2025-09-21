@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Prakarsha-k/Coding/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Prakarsha-k/Coding/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/Prakarsha-k/Coding/tree/master/0878-shifting-letters) |
+| [0886-score-of-parentheses](https://github.com/Prakarsha-k/Coding/tree/master/0886-score-of-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Prakarsha-k/Coding/tree/master/0232-implement-queue-using-stacks) |
 | [0874-backspace-string-compare](https://github.com/Prakarsha-k/Coding/tree/master/0874-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/Prakarsha-k/Coding/tree/master/0883-car-fleet) |
+| [0886-score-of-parentheses](https://github.com/Prakarsha-k/Coding/tree/master/0886-score-of-parentheses) |
 ## Backtracking
 |  |
 | ------- |
