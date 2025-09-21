@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-smallest-rotation-with-highest-score](https://github.com/Prakarsha-k/Coding/tree/master/0814-smallest-rotation-with-highest-score) |
 | [0870-magic-squares-in-grid](https://github.com/Prakarsha-k/Coding/tree/master/0870-magic-squares-in-grid) |
 | [0875-longest-mountain-in-array](https://github.com/Prakarsha-k/Coding/tree/master/0875-longest-mountain-in-array) |
+| [0876-hand-of-straights](https://github.com/Prakarsha-k/Coding/tree/master/0876-hand-of-straights) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Prakarsha-k/Coding/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Prakarsha-k/Coding/tree/master/0383-ransom-note) |
 | [0870-magic-squares-in-grid](https://github.com/Prakarsha-k/Coding/tree/master/0870-magic-squares-in-grid) |
+| [0876-hand-of-straights](https://github.com/Prakarsha-k/Coding/tree/master/0876-hand-of-straights) |
 ## Two Pointers
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Prakarsha-k/Coding/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Prakarsha-k/Coding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prakarsha-k/Coding/tree/master/0268-missing-number) |
+| [0876-hand-of-straights](https://github.com/Prakarsha-k/Coding/tree/master/0876-hand-of-straights) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Prakarsha-k/Coding/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Divide and Conquer
 |  |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Prakarsha-k/Coding/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prakarsha-k/Coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/Prakarsha-k/Coding/tree/master/0376-wiggle-subsequence) |
+| [0876-hand-of-straights](https://github.com/Prakarsha-k/Coding/tree/master/0876-hand-of-straights) |
 ## Database
 |  |
 | ------- |
