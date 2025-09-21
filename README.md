@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/Prakarsha-k/Coding/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Prakarsha-k/Coding/tree/master/0377-combination-sum-iv) |
 | [0485-max-consecutive-ones](https://github.com/Prakarsha-k/Coding/tree/master/0485-max-consecutive-ones) |
+| [0814-smallest-rotation-with-highest-score](https://github.com/Prakarsha-k/Coding/tree/master/0814-smallest-rotation-with-highest-score) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Prakarsha-k/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Prakarsha-k/Coding/tree/master/0238-product-of-array-except-self) |
+| [0814-smallest-rotation-with-highest-score](https://github.com/Prakarsha-k/Coding/tree/master/0814-smallest-rotation-with-highest-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
