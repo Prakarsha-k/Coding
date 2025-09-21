@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/Prakarsha-k/Coding/tree/master/0999-regions-cut-by-slashes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Prakarsha-k/Coding/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1002-maximum-width-ramp](https://github.com/Prakarsha-k/Coding/tree/master/1002-maximum-width-ramp) |
+| [1009-pancake-sorting](https://github.com/Prakarsha-k/Coding/tree/master/1009-pancake-sorting) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Prakarsha-k/Coding/tree/master/0979-di-string-match) |
 | [0985-bag-of-tokens](https://github.com/Prakarsha-k/Coding/tree/master/0985-bag-of-tokens) |
 | [1002-maximum-width-ramp](https://github.com/Prakarsha-k/Coding/tree/master/1002-maximum-width-ramp) |
+| [1009-pancake-sorting](https://github.com/Prakarsha-k/Coding/tree/master/1009-pancake-sorting) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prakarsha-k/Coding/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/Prakarsha-k/Coding/tree/master/0985-bag-of-tokens) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Prakarsha-k/Coding/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0991-array-of-doubled-pairs](https://github.com/Prakarsha-k/Coding/tree/master/0991-array-of-doubled-pairs) |
+| [1009-pancake-sorting](https://github.com/Prakarsha-k/Coding/tree/master/1009-pancake-sorting) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Prakarsha-k/Coding/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Divide and Conquer
 |  |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/Prakarsha-k/Coding/tree/master/0985-bag-of-tokens) |
 | [0991-array-of-doubled-pairs](https://github.com/Prakarsha-k/Coding/tree/master/0991-array-of-doubled-pairs) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/Prakarsha-k/Coding/tree/master/0992-delete-columns-to-make-sorted-ii) |
+| [1009-pancake-sorting](https://github.com/Prakarsha-k/Coding/tree/master/1009-pancake-sorting) |
 ## Database
 |  |
 | ------- |
