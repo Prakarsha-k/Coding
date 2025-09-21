@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Prakarsha-k/Coding/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/Prakarsha-k/Coding/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/Prakarsha-k/Coding/tree/master/0959-3sum-with-multiplicity) |
+| [0961-long-pressed-name](https://github.com/Prakarsha-k/Coding/tree/master/0961-long-pressed-name) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prakarsha-k/Coding/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Prakarsha-k/Coding/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/Prakarsha-k/Coding/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prakarsha-k/Coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0961-long-pressed-name](https://github.com/Prakarsha-k/Coding/tree/master/0961-long-pressed-name) |
 ## Dynamic Programming
 |  |
 | ------- |
