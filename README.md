@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Prakarsha-k/Coding/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Prakarsha-k/Coding/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Prakarsha-k/Coding/tree/master/0392-is-subsequence) |
+| [0868-push-dominoes](https://github.com/Prakarsha-k/Coding/tree/master/0868-push-dominoes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prakarsha-k/Coding/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Prakarsha-k/Coding/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Prakarsha-k/Coding/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/Prakarsha-k/Coding/tree/master/0657-robot-return-to-origin) |
+| [0868-push-dominoes](https://github.com/Prakarsha-k/Coding/tree/master/0868-push-dominoes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Prakarsha-k/Coding/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Prakarsha-k/Coding/tree/master/0392-is-subsequence) |
 | [0867-new-21-game](https://github.com/Prakarsha-k/Coding/tree/master/0867-new-21-game) |
+| [0868-push-dominoes](https://github.com/Prakarsha-k/Coding/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/Prakarsha-k/Coding/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
