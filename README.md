@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Prakarsha-k/Coding/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Prakarsha-k/Coding/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Prakarsha-k/Coding/tree/master/0906-walking-robot-simulation) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Prakarsha-k/Coding/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/Prakarsha-k/Coding/tree/master/0886-score-of-parentheses) |
 | [0889-buddy-strings](https://github.com/Prakarsha-k/Coding/tree/master/0889-buddy-strings) |
 | [0916-decoded-string-at-index](https://github.com/Prakarsha-k/Coding/tree/master/0916-decoded-string-at-index) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Prakarsha-k/Coding/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Prakarsha-k/Coding/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Prakarsha-k/Coding/tree/master/0383-ransom-note) |
 | [0900-reordered-power-of-2](https://github.com/Prakarsha-k/Coding/tree/master/0900-reordered-power-of-2) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Prakarsha-k/Coding/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Prakarsha-k/Coding/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Sliding Window
 |  |
