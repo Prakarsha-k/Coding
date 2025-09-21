@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Prakarsha-k/Coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prakarsha-k/Coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prakarsha-k/Coding/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Prakarsha-k/Coding/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Prakarsha-k/Coding/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Prakarsha-k/Coding/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Prakarsha-k/Coding/tree/master/0045-jump-game-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prakarsha-k/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Prakarsha-k/Coding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Prakarsha-k/Coding/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Prakarsha-k/Coding/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Prakarsha-k/Coding/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Prakarsha-k/Coding/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Prakarsha-k/Coding/tree/master/0139-word-break) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Prakarsha-k/Coding/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Prakarsha-k/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Prakarsha-k/Coding/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Prakarsha-k/Coding/tree/master/0200-number-of-islands) |
