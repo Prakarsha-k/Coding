@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Prakarsha-k/Coding/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Prakarsha-k/Coding/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Prakarsha-k/Coding/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Prakarsha-k/Coding/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Prakarsha-k/Coding/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Prakarsha-k/Coding/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Prakarsha-k/Coding/tree/master/0097-interleaving-string) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prakarsha-k/Coding/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Prakarsha-k/Coding/tree/master/0071-simplify-path) |
 | [0225-implement-stack-using-queues](https://github.com/Prakarsha-k/Coding/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Prakarsha-k/Coding/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Prakarsha-k/Coding/tree/master/0232-implement-queue-using-stacks) |
