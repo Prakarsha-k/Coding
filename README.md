@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Prakarsha-k/Coding/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/Prakarsha-k/Coding/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-smallest-range-i](https://github.com/Prakarsha-k/Coding/tree/master/0944-smallest-range-i) |
+| [0945-snakes-and-ladders](https://github.com/Prakarsha-k/Coding/tree/master/0945-snakes-and-ladders) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Prakarsha-k/Coding/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Prakarsha-k/Coding/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Prakarsha-k/Coding/tree/master/0928-surface-area-of-3d-shapes) |
+| [0945-snakes-and-ladders](https://github.com/Prakarsha-k/Coding/tree/master/0945-snakes-and-ladders) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 ## Linked List
 |  |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prakarsha-k/Coding/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0922-possible-bipartition](https://github.com/Prakarsha-k/Coding/tree/master/0922-possible-bipartition) |
+| [0945-snakes-and-ladders](https://github.com/Prakarsha-k/Coding/tree/master/0945-snakes-and-ladders) |
 ## Union Find
 |  |
 | ------- |
