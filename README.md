@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-prison-cells-after-n-days](https://github.com/Prakarsha-k/Coding/tree/master/0994-prison-cells-after-n-days) |
 | [1010-powerful-integers](https://github.com/Prakarsha-k/Coding/tree/master/1010-powerful-integers) |
 | [1013-fibonacci-number](https://github.com/Prakarsha-k/Coding/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Prakarsha-k/Coding/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Array
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/Prakarsha-k/Coding/tree/master/1002-maximum-width-ramp) |
 | [1009-pancake-sorting](https://github.com/Prakarsha-k/Coding/tree/master/1009-pancake-sorting) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Prakarsha-k/Coding/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1018-largest-perimeter-triangle](https://github.com/Prakarsha-k/Coding/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/Prakarsha-k/Coding/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0991-array-of-doubled-pairs](https://github.com/Prakarsha-k/Coding/tree/master/0991-array-of-doubled-pairs) |
 | [1009-pancake-sorting](https://github.com/Prakarsha-k/Coding/tree/master/1009-pancake-sorting) |
+| [1018-largest-perimeter-triangle](https://github.com/Prakarsha-k/Coding/tree/master/1018-largest-perimeter-triangle) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Prakarsha-k/Coding/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Divide and Conquer
 |  |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-array-of-doubled-pairs](https://github.com/Prakarsha-k/Coding/tree/master/0991-array-of-doubled-pairs) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/Prakarsha-k/Coding/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1009-pancake-sorting](https://github.com/Prakarsha-k/Coding/tree/master/1009-pancake-sorting) |
+| [1018-largest-perimeter-triangle](https://github.com/Prakarsha-k/Coding/tree/master/1018-largest-perimeter-triangle) |
 ## Database
 |  |
 | ------- |
