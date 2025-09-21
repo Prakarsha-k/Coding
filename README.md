@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/Prakarsha-k/Coding/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [0994-prison-cells-after-n-days](https://github.com/Prakarsha-k/Coding/tree/master/0994-prison-cells-after-n-days) |
 | [0999-regions-cut-by-slashes](https://github.com/Prakarsha-k/Coding/tree/master/0999-regions-cut-by-slashes) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Prakarsha-k/Coding/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-array-of-doubled-pairs](https://github.com/Prakarsha-k/Coding/tree/master/0991-array-of-doubled-pairs) |
 | [0994-prison-cells-after-n-days](https://github.com/Prakarsha-k/Coding/tree/master/0994-prison-cells-after-n-days) |
 | [0999-regions-cut-by-slashes](https://github.com/Prakarsha-k/Coding/tree/master/0999-regions-cut-by-slashes) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Prakarsha-k/Coding/tree/master/1001-n-repeated-element-in-size-2n-array) |
 ## Two Pointers
 |  |
 | ------- |
