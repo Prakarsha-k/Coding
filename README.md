@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Prakarsha-k/Coding/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Prakarsha-k/Coding/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prakarsha-k/Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Prakarsha-k/Coding/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Prakarsha-k/Coding/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Prakarsha-k/Coding/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prakarsha-k/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Prakarsha-k/Coding/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Prakarsha-k/Coding/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Prakarsha-k/Coding/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Prakarsha-k/Coding/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prakarsha-k/Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Prakarsha-k/Coding/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prakarsha-k/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
