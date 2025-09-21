@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/Prakarsha-k/Coding/tree/master/0971-shortest-bridge) |
 | [0974-reorder-data-in-log-files](https://github.com/Prakarsha-k/Coding/tree/master/0974-reorder-data-in-log-files) |
 | [0979-di-string-match](https://github.com/Prakarsha-k/Coding/tree/master/0979-di-string-match) |
+| [0981-delete-columns-to-make-sorted](https://github.com/Prakarsha-k/Coding/tree/master/0981-delete-columns-to-make-sorted) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/Prakarsha-k/Coding/tree/master/0965-unique-email-addresses) |
 | [0974-reorder-data-in-log-files](https://github.com/Prakarsha-k/Coding/tree/master/0974-reorder-data-in-log-files) |
 | [0979-di-string-match](https://github.com/Prakarsha-k/Coding/tree/master/0979-di-string-match) |
+| [0981-delete-columns-to-make-sorted](https://github.com/Prakarsha-k/Coding/tree/master/0981-delete-columns-to-make-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
