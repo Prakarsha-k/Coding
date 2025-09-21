@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prakarsha-k/Coding/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Prakarsha-k/Coding/tree/master/0904-leaf-similar-trees) |
+| [0922-possible-bipartition](https://github.com/Prakarsha-k/Coding/tree/master/0922-possible-bipartition) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -479,10 +480,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Prakarsha-k/Coding/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prakarsha-k/Coding/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0922-possible-bipartition](https://github.com/Prakarsha-k/Coding/tree/master/0922-possible-bipartition) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Prakarsha-k/Coding/tree/master/0200-number-of-islands) |
+| [0922-possible-bipartition](https://github.com/Prakarsha-k/Coding/tree/master/0922-possible-bipartition) |
 ## Graph
 |  |
 | ------- |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Prakarsha-k/Coding/tree/master/0210-course-schedule-ii) |
 | [0871-keys-and-rooms](https://github.com/Prakarsha-k/Coding/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/Prakarsha-k/Coding/tree/master/0881-loud-and-rich) |
+| [0922-possible-bipartition](https://github.com/Prakarsha-k/Coding/tree/master/0922-possible-bipartition) |
 ## Topological Sort
 |  |
 | ------- |
