@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-largest-time-for-given-digits](https://github.com/Prakarsha-k/Coding/tree/master/0986-largest-time-for-given-digits) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Prakarsha-k/Coding/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Prakarsha-k/Coding/tree/master/0990-verifying-an-alien-dictionary) |
+| [0991-array-of-doubled-pairs](https://github.com/Prakarsha-k/Coding/tree/master/0991-array-of-doubled-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Prakarsha-k/Coding/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Prakarsha-k/Coding/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Prakarsha-k/Coding/tree/master/0990-verifying-an-alien-dictionary) |
+| [0991-array-of-doubled-pairs](https://github.com/Prakarsha-k/Coding/tree/master/0991-array-of-doubled-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-reorder-data-in-log-files](https://github.com/Prakarsha-k/Coding/tree/master/0974-reorder-data-in-log-files) |
 | [0985-bag-of-tokens](https://github.com/Prakarsha-k/Coding/tree/master/0985-bag-of-tokens) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Prakarsha-k/Coding/tree/master/0987-reveal-cards-in-increasing-order) |
+| [0991-array-of-doubled-pairs](https://github.com/Prakarsha-k/Coding/tree/master/0991-array-of-doubled-pairs) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Prakarsha-k/Coding/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Divide and Conquer
 |  |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prakarsha-k/Coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Prakarsha-k/Coding/tree/master/0979-di-string-match) |
 | [0985-bag-of-tokens](https://github.com/Prakarsha-k/Coding/tree/master/0985-bag-of-tokens) |
+| [0991-array-of-doubled-pairs](https://github.com/Prakarsha-k/Coding/tree/master/0991-array-of-doubled-pairs) |
 ## Database
 |  |
 | ------- |
