@@ -604,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Prakarsha-k/Coding/tree/master/0904-leaf-similar-trees) |
 | [0955-complete-binary-tree-inserter](https://github.com/Prakarsha-k/Coding/tree/master/0955-complete-binary-tree-inserter) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1040-maximum-binary-tree-ii](https://github.com/Prakarsha-k/Coding/tree/master/1040-maximum-binary-tree-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Prakarsha-k/Coding/tree/master/0904-leaf-similar-trees) |
 | [0955-complete-binary-tree-inserter](https://github.com/Prakarsha-k/Coding/tree/master/0955-complete-binary-tree-inserter) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1040-maximum-binary-tree-ii](https://github.com/Prakarsha-k/Coding/tree/master/1040-maximum-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
