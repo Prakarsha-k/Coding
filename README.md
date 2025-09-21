@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/Prakarsha-k/Coding/tree/master/0878-shifting-letters) |
 | [0886-score-of-parentheses](https://github.com/Prakarsha-k/Coding/tree/master/0886-score-of-parentheses) |
 | [0889-buddy-strings](https://github.com/Prakarsha-k/Coding/tree/master/0889-buddy-strings) |
+| [0916-decoded-string-at-index](https://github.com/Prakarsha-k/Coding/tree/master/0916-decoded-string-at-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Prakarsha-k/Coding/tree/master/0874-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/Prakarsha-k/Coding/tree/master/0883-car-fleet) |
 | [0886-score-of-parentheses](https://github.com/Prakarsha-k/Coding/tree/master/0886-score-of-parentheses) |
+| [0916-decoded-string-at-index](https://github.com/Prakarsha-k/Coding/tree/master/0916-decoded-string-at-index) |
 ## Backtracking
 |  |
 | ------- |
