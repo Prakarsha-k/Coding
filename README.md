@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/Prakarsha-k/Coding/tree/master/0926-find-and-replace-pattern) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Prakarsha-k/Coding/tree/master/0928-surface-area-of-3d-shapes) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/Prakarsha-k/Coding/tree/master/0929-groups-of-special-equivalent-strings) |
+| [0932-monotonic-array](https://github.com/Prakarsha-k/Coding/tree/master/0932-monotonic-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
