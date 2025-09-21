@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Prakarsha-k/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/Prakarsha-k/Coding/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/Prakarsha-k/Coding/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/Prakarsha-k/Coding/tree/master/0898-transpose-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Prakarsha-k/Coding/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Prakarsha-k/Coding/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/Prakarsha-k/Coding/tree/master/0874-backspace-string-compare) |
+| [0898-transpose-matrix](https://github.com/Prakarsha-k/Coding/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prakarsha-k/Coding/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Enumeration
 |  |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Prakarsha-k/Coding/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Prakarsha-k/Coding/tree/master/0200-number-of-islands) |
 | [0870-magic-squares-in-grid](https://github.com/Prakarsha-k/Coding/tree/master/0870-magic-squares-in-grid) |
+| [0898-transpose-matrix](https://github.com/Prakarsha-k/Coding/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 ## Linked List
 |  |
