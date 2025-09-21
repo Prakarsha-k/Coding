@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Prakarsha-k/Coding/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/Prakarsha-k/Coding/tree/master/0959-3sum-with-multiplicity) |
 | [0965-unique-email-addresses](https://github.com/Prakarsha-k/Coding/tree/master/0965-unique-email-addresses) |
+| [0966-binary-subarrays-with-sum](https://github.com/Prakarsha-k/Coding/tree/master/0966-binary-subarrays-with-sum) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Prakarsha-k/Coding/tree/master/0952-word-subsets) |
 | [0959-3sum-with-multiplicity](https://github.com/Prakarsha-k/Coding/tree/master/0959-3sum-with-multiplicity) |
 | [0965-unique-email-addresses](https://github.com/Prakarsha-k/Coding/tree/master/0965-unique-email-addresses) |
+| [0966-binary-subarrays-with-sum](https://github.com/Prakarsha-k/Coding/tree/master/0966-binary-subarrays-with-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Prakarsha-k/Coding/tree/master/0219-contains-duplicate-ii) |
 | [0867-new-21-game](https://github.com/Prakarsha-k/Coding/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Prakarsha-k/Coding/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/Prakarsha-k/Coding/tree/master/0966-binary-subarrays-with-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Prakarsha-k/Coding/tree/master/0238-product-of-array-except-self) |
 | [0814-smallest-rotation-with-highest-score](https://github.com/Prakarsha-k/Coding/tree/master/0814-smallest-rotation-with-highest-score) |
 | [0878-shifting-letters](https://github.com/Prakarsha-k/Coding/tree/master/0878-shifting-letters) |
+| [0966-binary-subarrays-with-sum](https://github.com/Prakarsha-k/Coding/tree/master/0966-binary-subarrays-with-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
