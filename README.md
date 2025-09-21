@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/Prakarsha-k/Coding/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0944-smallest-range-i](https://github.com/Prakarsha-k/Coding/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/Prakarsha-k/Coding/tree/master/0946-smallest-range-ii) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Prakarsha-k/Coding/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/Prakarsha-k/Coding/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Array
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-smallest-range-ii](https://github.com/Prakarsha-k/Coding/tree/master/0946-smallest-range-ii) |
 | [0947-online-election](https://github.com/Prakarsha-k/Coding/tree/master/0947-online-election) |
 | [0948-sort-an-array](https://github.com/Prakarsha-k/Coding/tree/master/0948-sort-an-array) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Prakarsha-k/Coding/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Prakarsha-k/Coding/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-groups-of-special-equivalent-strings](https://github.com/Prakarsha-k/Coding/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0940-fruit-into-baskets](https://github.com/Prakarsha-k/Coding/tree/master/0940-fruit-into-baskets) |
 | [0947-online-election](https://github.com/Prakarsha-k/Coding/tree/master/0947-online-election) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Prakarsha-k/Coding/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 ## Two Pointers
 |  |
 | ------- |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Prakarsha-k/Coding/tree/master/0383-ransom-note) |
 | [0900-reordered-power-of-2](https://github.com/Prakarsha-k/Coding/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Prakarsha-k/Coding/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Prakarsha-k/Coding/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Prakarsha-k/Coding/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Sliding Window
 |  |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Prakarsha-k/Coding/tree/master/0204-count-primes) |
 | [0888-mirror-reflection](https://github.com/Prakarsha-k/Coding/tree/master/0888-mirror-reflection) |
 | [0897-prime-palindrome](https://github.com/Prakarsha-k/Coding/tree/master/0897-prime-palindrome) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Prakarsha-k/Coding/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 ## Matrix
 |  |
 | ------- |
