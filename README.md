@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/Prakarsha-k/Coding/tree/master/0959-3sum-with-multiplicity) |
 | [0965-unique-email-addresses](https://github.com/Prakarsha-k/Coding/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prakarsha-k/Coding/tree/master/0966-binary-subarrays-with-sum) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Prakarsha-k/Coding/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Two Pointers
 |  |
 | ------- |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Prakarsha-k/Coding/tree/master/0904-leaf-similar-trees) |
 | [0922-possible-bipartition](https://github.com/Prakarsha-k/Coding/tree/master/0922-possible-bipartition) |
 | [0971-shortest-bridge](https://github.com/Prakarsha-k/Coding/tree/master/0971-shortest-bridge) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Prakarsha-k/Coding/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Prakarsha-k/Coding/tree/master/0200-number-of-islands) |
 | [0922-possible-bipartition](https://github.com/Prakarsha-k/Coding/tree/master/0922-possible-bipartition) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Prakarsha-k/Coding/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Graph
 |  |
 | ------- |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Prakarsha-k/Coding/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/Prakarsha-k/Coding/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/Prakarsha-k/Coding/tree/master/0922-possible-bipartition) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Prakarsha-k/Coding/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Topological Sort
 |  |
 | ------- |
