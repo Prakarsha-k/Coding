@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/Prakarsha-k/Coding/tree/master/0924-fair-candy-swap) |
 | [0926-find-and-replace-pattern](https://github.com/Prakarsha-k/Coding/tree/master/0926-find-and-replace-pattern) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Prakarsha-k/Coding/tree/master/0928-surface-area-of-3d-shapes) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/Prakarsha-k/Coding/tree/master/0929-groups-of-special-equivalent-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Prakarsha-k/Coding/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/Prakarsha-k/Coding/tree/master/0924-fair-candy-swap) |
 | [0926-find-and-replace-pattern](https://github.com/Prakarsha-k/Coding/tree/master/0926-find-and-replace-pattern) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/Prakarsha-k/Coding/tree/master/0929-groups-of-special-equivalent-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-decoded-string-at-index](https://github.com/Prakarsha-k/Coding/tree/master/0916-decoded-string-at-index) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Prakarsha-k/Coding/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/Prakarsha-k/Coding/tree/master/0926-find-and-replace-pattern) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/Prakarsha-k/Coding/tree/master/0929-groups-of-special-equivalent-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Prakarsha-k/Coding/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/Prakarsha-k/Coding/tree/master/0917-boats-to-save-people) |
 | [0924-fair-candy-swap](https://github.com/Prakarsha-k/Coding/tree/master/0924-fair-candy-swap) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/Prakarsha-k/Coding/tree/master/0929-groups-of-special-equivalent-strings) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Prakarsha-k/Coding/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Divide and Conquer
 |  |
