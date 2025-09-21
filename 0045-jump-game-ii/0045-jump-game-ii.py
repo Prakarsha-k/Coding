@@ -1,16 +1,13 @@
-class Solution(object):
-    def jump(self, nums):
-        n = len(nums)
-        jumps = 0  
-        curr_end = 0  
-        farthest = 0  
-        for i in range(n - 1):
-            farthest = max(farthest, i + nums[i])
-            if i == curr_end:
-                jumps += 1
-                curr_end = farthest  
-            if curr_end >= n - 1:
-                break
-        return jumps
+from typing import List
 
-        
+class Solution:
+    def jump(self, nums: List[int]) -> int:
+        jumps = 0
+        cur_end = 0
+        cur_farthest = 0
+        for i in range(len(nums) - 1):
+            cur_farthest = max(cur_farthest, i + nums[i])
+            if i == cur_end:
+                jumps += 1
+                cur_end = cur_farthest
+        return jumps
