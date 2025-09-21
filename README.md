@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/Prakarsha-k/Coding/tree/master/0981-delete-columns-to-make-sorted) |
 | [0983-validate-stack-sequences](https://github.com/Prakarsha-k/Coding/tree/master/0983-validate-stack-sequences) |
 | [0985-bag-of-tokens](https://github.com/Prakarsha-k/Coding/tree/master/0985-bag-of-tokens) |
+| [0986-largest-time-for-given-digits](https://github.com/Prakarsha-k/Coding/tree/master/0986-largest-time-for-given-digits) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-reorder-data-in-log-files](https://github.com/Prakarsha-k/Coding/tree/master/0974-reorder-data-in-log-files) |
 | [0979-di-string-match](https://github.com/Prakarsha-k/Coding/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Prakarsha-k/Coding/tree/master/0981-delete-columns-to-make-sorted) |
+| [0986-largest-time-for-given-digits](https://github.com/Prakarsha-k/Coding/tree/master/0986-largest-time-for-given-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Prakarsha-k/Coding/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/Prakarsha-k/Coding/tree/master/0875-longest-mountain-in-array) |
 | [0900-reordered-power-of-2](https://github.com/Prakarsha-k/Coding/tree/master/0900-reordered-power-of-2) |
+| [0986-largest-time-for-given-digits](https://github.com/Prakarsha-k/Coding/tree/master/0986-largest-time-for-given-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Prakarsha-k/Coding/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Prakarsha-k/Coding/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Prakarsha-k/Coding/tree/master/0216-combination-sum-iii) |
+| [0986-largest-time-for-given-digits](https://github.com/Prakarsha-k/Coding/tree/master/0986-largest-time-for-given-digits) |
 ## Tree
 |  |
 | ------- |
