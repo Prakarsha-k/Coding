@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Prakarsha-k/Coding/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Prakarsha-k/Coding/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Prakarsha-k/Coding/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Prakarsha-k/Coding/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-string-without-aaa-or-bbb](https://github.com/Prakarsha-k/Coding/tree/master/1026-string-without-aaa-or-bbb) |
 | [1033-broken-calculator](https://github.com/Prakarsha-k/Coding/tree/master/1033-broken-calculator) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Prakarsha-k/Coding/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Prakarsha-k/Coding/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 ## Database
 |  |
 | ------- |
