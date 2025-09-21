@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-largest-time-for-given-digits](https://github.com/Prakarsha-k/Coding/tree/master/0986-largest-time-for-given-digits) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Prakarsha-k/Coding/tree/master/0990-verifying-an-alien-dictionary) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/Prakarsha-k/Coding/tree/master/0992-delete-columns-to-make-sorted-ii) |
+| [1026-string-without-aaa-or-bbb](https://github.com/Prakarsha-k/Coding/tree/master/1026-string-without-aaa-or-bbb) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/Prakarsha-k/Coding/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1009-pancake-sorting](https://github.com/Prakarsha-k/Coding/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/Prakarsha-k/Coding/tree/master/1018-largest-perimeter-triangle) |
+| [1026-string-without-aaa-or-bbb](https://github.com/Prakarsha-k/Coding/tree/master/1026-string-without-aaa-or-bbb) |
 ## Database
 |  |
 | ------- |
