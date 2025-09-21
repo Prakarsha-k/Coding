@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/Prakarsha-k/Coding/tree/master/0944-smallest-range-i) |
 | [0945-snakes-and-ladders](https://github.com/Prakarsha-k/Coding/tree/master/0945-snakes-and-ladders) |
 | [0946-smallest-range-ii](https://github.com/Prakarsha-k/Coding/tree/master/0946-smallest-range-ii) |
+| [0947-online-election](https://github.com/Prakarsha-k/Coding/tree/master/0947-online-election) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/Prakarsha-k/Coding/tree/master/0926-find-and-replace-pattern) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/Prakarsha-k/Coding/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0940-fruit-into-baskets](https://github.com/Prakarsha-k/Coding/tree/master/0940-fruit-into-baskets) |
+| [0947-online-election](https://github.com/Prakarsha-k/Coding/tree/master/0947-online-election) |
 ## Two Pointers
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Prakarsha-k/Coding/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/Prakarsha-k/Coding/tree/master/0924-fair-candy-swap) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/Prakarsha-k/Coding/tree/master/0938-numbers-at-most-n-given-digit-set) |
+| [0947-online-election](https://github.com/Prakarsha-k/Coding/tree/master/0947-online-election) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Prakarsha-k/Coding/tree/master/0232-implement-queue-using-stacks) |
 | [0885-exam-room](https://github.com/Prakarsha-k/Coding/tree/master/0885-exam-room) |
 | [0937-online-stock-span](https://github.com/Prakarsha-k/Coding/tree/master/0937-online-stock-span) |
+| [0947-online-election](https://github.com/Prakarsha-k/Coding/tree/master/0947-online-election) |
 ## Queue
 |  |
 | ------- |
