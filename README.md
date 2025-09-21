@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Prakarsha-k/Coding/tree/master/1039-find-the-town-judge) |
 | [1041-available-captures-for-rook](https://github.com/Prakarsha-k/Coding/tree/master/1041-available-captures-for-rook) |
 | [1044-find-common-characters](https://github.com/Prakarsha-k/Coding/tree/master/1044-find-common-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/Prakarsha-k/Coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/Prakarsha-k/Coding/tree/master/0924-fair-candy-swap) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/Prakarsha-k/Coding/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0947-online-election](https://github.com/Prakarsha-k/Coding/tree/master/0947-online-election) |
+| [1046-max-consecutive-ones-iii](https://github.com/Prakarsha-k/Coding/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Prakarsha-k/Coding/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prakarsha-k/Coding/tree/master/0966-binary-subarrays-with-sum) |
 | [1020-longest-turbulent-subarray](https://github.com/Prakarsha-k/Coding/tree/master/1020-longest-turbulent-subarray) |
+| [1046-max-consecutive-ones-iii](https://github.com/Prakarsha-k/Coding/tree/master/1046-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/Prakarsha-k/Coding/tree/master/0878-shifting-letters) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prakarsha-k/Coding/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Prakarsha-k/Coding/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Prakarsha-k/Coding/tree/master/1046-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
