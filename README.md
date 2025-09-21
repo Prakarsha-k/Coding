@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Prakarsha-k/Coding/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0952-word-subsets](https://github.com/Prakarsha-k/Coding/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Prakarsha-k/Coding/tree/master/0954-maximum-sum-circular-subarray) |
+| [0958-sort-array-by-parity-ii](https://github.com/Prakarsha-k/Coding/tree/master/0958-sort-array-by-parity-ii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Prakarsha-k/Coding/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Prakarsha-k/Coding/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Prakarsha-k/Coding/tree/master/0953-reverse-only-letters) |
+| [0958-sort-array-by-parity-ii](https://github.com/Prakarsha-k/Coding/tree/master/0958-sort-array-by-parity-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prakarsha-k/Coding/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Prakarsha-k/Coding/tree/master/0941-sort-array-by-parity) |
 | [0946-smallest-range-ii](https://github.com/Prakarsha-k/Coding/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/Prakarsha-k/Coding/tree/master/0948-sort-an-array) |
+| [0958-sort-array-by-parity-ii](https://github.com/Prakarsha-k/Coding/tree/master/0958-sort-array-by-parity-ii) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Prakarsha-k/Coding/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Divide and Conquer
 |  |
