@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/Prakarsha-k/Coding/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prakarsha-k/Coding/tree/master/0966-binary-subarrays-with-sum) |
 | [0968-beautiful-array](https://github.com/Prakarsha-k/Coding/tree/master/0968-beautiful-array) |
+| [0971-shortest-bridge](https://github.com/Prakarsha-k/Coding/tree/master/0971-shortest-bridge) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0919-projection-area-of-3d-shapes](https://github.com/Prakarsha-k/Coding/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Prakarsha-k/Coding/tree/master/0928-surface-area-of-3d-shapes) |
 | [0945-snakes-and-ladders](https://github.com/Prakarsha-k/Coding/tree/master/0945-snakes-and-ladders) |
+| [0971-shortest-bridge](https://github.com/Prakarsha-k/Coding/tree/master/0971-shortest-bridge) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 ## Linked List
 |  |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prakarsha-k/Coding/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Prakarsha-k/Coding/tree/master/0904-leaf-similar-trees) |
 | [0922-possible-bipartition](https://github.com/Prakarsha-k/Coding/tree/master/0922-possible-bipartition) |
+| [0971-shortest-bridge](https://github.com/Prakarsha-k/Coding/tree/master/0971-shortest-bridge) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/Prakarsha-k/Coding/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/Prakarsha-k/Coding/tree/master/0945-snakes-and-ladders) |
 | [0955-complete-binary-tree-inserter](https://github.com/Prakarsha-k/Coding/tree/master/0955-complete-binary-tree-inserter) |
+| [0971-shortest-bridge](https://github.com/Prakarsha-k/Coding/tree/master/0971-shortest-bridge) |
 ## Union Find
 |  |
 | ------- |
