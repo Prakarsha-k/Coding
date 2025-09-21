@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/Prakarsha-k/Coding/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0952-word-subsets](https://github.com/Prakarsha-k/Coding/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/Prakarsha-k/Coding/tree/master/0953-reverse-only-letters) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prakarsha-k/Coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Prakarsha-k/Coding/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Prakarsha-k/Coding/tree/master/0917-boats-to-save-people) |
 | [0946-smallest-range-ii](https://github.com/Prakarsha-k/Coding/tree/master/0946-smallest-range-ii) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prakarsha-k/Coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Database
 |  |
 | ------- |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-decoded-string-at-index](https://github.com/Prakarsha-k/Coding/tree/master/0916-decoded-string-at-index) |
 | [0937-online-stock-span](https://github.com/Prakarsha-k/Coding/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Prakarsha-k/Coding/tree/master/0943-sum-of-subarray-minimums) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prakarsha-k/Coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Backtracking
 |  |
 | ------- |
