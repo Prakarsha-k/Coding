@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Prakarsha-k/Coding/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Prakarsha-k/Coding/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Prakarsha-k/Coding/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0906-walking-robot-simulation](https://github.com/Prakarsha-k/Coding/tree/master/0906-walking-robot-simulation) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prakarsha-k/Coding/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/Prakarsha-k/Coding/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Prakarsha-k/Coding/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0906-walking-robot-simulation](https://github.com/Prakarsha-k/Coding/tree/master/0906-walking-robot-simulation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Prakarsha-k/Coding/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/Prakarsha-k/Coding/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Prakarsha-k/Coding/tree/master/0898-transpose-matrix) |
+| [0906-walking-robot-simulation](https://github.com/Prakarsha-k/Coding/tree/master/0906-walking-robot-simulation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prakarsha-k/Coding/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Enumeration
 |  |
