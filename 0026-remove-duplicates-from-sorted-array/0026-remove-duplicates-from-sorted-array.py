@@ -1,16 +1,12 @@
-class Solution(object):
-    def removeDuplicates(self, nums):
-        if len(nums)==0:
+from typing import List
+
+class Solution:
+    def removeDuplicates(self, nums: List[int]) -> int:
+        if not nums:
             return 0
-        if len(nums)==1:
-            return 1
-        new_nums=[]
-        nums.sort()
-        n=len(nums)
-        for i in range(n):
-            if nums[i] not in new_nums:
-                new_nums.append(nums[i])
-        for i in range(len(new_nums)):
-            nums[i] = new_nums[i]
-        
-        return len(new_nums)
+        write = 1
+        for read in range(1, len(nums)):
+            if nums[read] != nums[read - 1]:
+                nums[write] = nums[read]
+                write += 1
+        return write
