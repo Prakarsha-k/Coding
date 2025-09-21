@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prakarsha-k/Coding/tree/master/0268-missing-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Prakarsha-k/Coding/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0994-prison-cells-after-n-days](https://github.com/Prakarsha-k/Coding/tree/master/0994-prison-cells-after-n-days) |
+| [1054-complement-of-base-10-integer](https://github.com/Prakarsha-k/Coding/tree/master/1054-complement-of-base-10-integer) |
 ## Sorting
 |  |
 | ------- |
