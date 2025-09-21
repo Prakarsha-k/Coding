@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/Prakarsha-k/Coding/tree/master/0881-loud-and-rich) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Prakarsha-k/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/Prakarsha-k/Coding/tree/master/0883-car-fleet) |
+| [0890-lemonade-change](https://github.com/Prakarsha-k/Coding/tree/master/0890-lemonade-change) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prakarsha-k/Coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/Prakarsha-k/Coding/tree/master/0376-wiggle-subsequence) |
 | [0876-hand-of-straights](https://github.com/Prakarsha-k/Coding/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/Prakarsha-k/Coding/tree/master/0890-lemonade-change) |
 ## Database
 |  |
 | ------- |
