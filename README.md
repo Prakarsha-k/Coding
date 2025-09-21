@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-reorder-data-in-log-files](https://github.com/Prakarsha-k/Coding/tree/master/0974-reorder-data-in-log-files) |
 | [0979-di-string-match](https://github.com/Prakarsha-k/Coding/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Prakarsha-k/Coding/tree/master/0981-delete-columns-to-make-sorted) |
+| [0983-validate-stack-sequences](https://github.com/Prakarsha-k/Coding/tree/master/0983-validate-stack-sequences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Prakarsha-k/Coding/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Prakarsha-k/Coding/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/Prakarsha-k/Coding/tree/master/0906-walking-robot-simulation) |
+| [0983-validate-stack-sequences](https://github.com/Prakarsha-k/Coding/tree/master/0983-validate-stack-sequences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prakarsha-k/Coding/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Enumeration
 |  |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/Prakarsha-k/Coding/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Prakarsha-k/Coding/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prakarsha-k/Coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0983-validate-stack-sequences](https://github.com/Prakarsha-k/Coding/tree/master/0983-validate-stack-sequences) |
 ## Backtracking
 |  |
 | ------- |
