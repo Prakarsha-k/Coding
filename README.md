@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-prison-cells-after-n-days](https://github.com/Prakarsha-k/Coding/tree/master/0994-prison-cells-after-n-days) |
 | [0999-regions-cut-by-slashes](https://github.com/Prakarsha-k/Coding/tree/master/0999-regions-cut-by-slashes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Prakarsha-k/Coding/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1002-maximum-width-ramp](https://github.com/Prakarsha-k/Coding/tree/master/1002-maximum-width-ramp) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/Prakarsha-k/Coding/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/Prakarsha-k/Coding/tree/master/0979-di-string-match) |
 | [0985-bag-of-tokens](https://github.com/Prakarsha-k/Coding/tree/master/0985-bag-of-tokens) |
+| [1002-maximum-width-ramp](https://github.com/Prakarsha-k/Coding/tree/master/1002-maximum-width-ramp) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prakarsha-k/Coding/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Prakarsha-k/Coding/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prakarsha-k/Coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/Prakarsha-k/Coding/tree/master/0983-validate-stack-sequences) |
+| [1002-maximum-width-ramp](https://github.com/Prakarsha-k/Coding/tree/master/1002-maximum-width-ramp) |
 ## Backtracking
 |  |
 | ------- |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/Prakarsha-k/Coding/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/Prakarsha-k/Coding/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Prakarsha-k/Coding/tree/master/0943-sum-of-subarray-minimums) |
+| [1002-maximum-width-ramp](https://github.com/Prakarsha-k/Coding/tree/master/1002-maximum-width-ramp) |
 ## Ordered Set
 |  |
 | ------- |
