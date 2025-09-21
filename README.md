@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Prakarsha-k/Coding/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Prakarsha-k/Coding/tree/master/0216-combination-sum-iii) |
 | [0986-largest-time-for-given-digits](https://github.com/Prakarsha-k/Coding/tree/master/0986-largest-time-for-given-digits) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/Prakarsha-k/Coding/tree/master/1007-numbers-with-same-consecutive-differences) |
 ## Tree
 |  |
 | ------- |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-complete-binary-tree-inserter](https://github.com/Prakarsha-k/Coding/tree/master/0955-complete-binary-tree-inserter) |
 | [0971-shortest-bridge](https://github.com/Prakarsha-k/Coding/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/Prakarsha-k/Coding/tree/master/0999-regions-cut-by-slashes) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/Prakarsha-k/Coding/tree/master/1007-numbers-with-same-consecutive-differences) |
 ## Union Find
 |  |
 | ------- |
