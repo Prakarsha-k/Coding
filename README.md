@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Prakarsha-k/Coding/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Prakarsha-k/Coding/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0952-word-subsets](https://github.com/Prakarsha-k/Coding/tree/master/0952-word-subsets) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Prakarsha-k/Coding/tree/master/0954-maximum-sum-circular-subarray) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Prakarsha-k/Coding/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/Prakarsha-k/Coding/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0943-sum-of-subarray-minimums](https://github.com/Prakarsha-k/Coding/tree/master/0943-sum-of-subarray-minimums) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Prakarsha-k/Coding/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Prakarsha-k/Coding/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Prakarsha-k/Coding/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prakarsha-k/Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/Prakarsha-k/Coding/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Prakarsha-k/Coding/tree/master/0954-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -597,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Prakarsha-k/Coding/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prakarsha-k/Coding/tree/master/0232-implement-queue-using-stacks) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Prakarsha-k/Coding/tree/master/0954-maximum-sum-circular-subarray) |
 ## Interactive
 |  |
 | ------- |
@@ -639,4 +643,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Prakarsha-k/Coding/tree/master/0948-sort-an-array) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Prakarsha-k/Coding/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
