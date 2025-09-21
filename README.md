@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Prakarsha-k/Coding/tree/master/1031-add-to-array-form-of-integer) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Prakarsha-k/Coding/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/Prakarsha-k/Coding/tree/master/1039-find-the-town-judge) |
+| [1041-available-captures-for-rook](https://github.com/Prakarsha-k/Coding/tree/master/1041-available-captures-for-rook) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/Prakarsha-k/Coding/tree/master/0983-validate-stack-sequences) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Prakarsha-k/Coding/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Prakarsha-k/Coding/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1041-available-captures-for-rook](https://github.com/Prakarsha-k/Coding/tree/master/1041-available-captures-for-rook) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prakarsha-k/Coding/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Enumeration
 |  |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Prakarsha-k/Coding/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/Prakarsha-k/Coding/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/Prakarsha-k/Coding/tree/master/0999-regions-cut-by-slashes) |
+| [1041-available-captures-for-rook](https://github.com/Prakarsha-k/Coding/tree/master/1041-available-captures-for-rook) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 ## Linked List
 |  |
