@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Prakarsha-k/Coding/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Prakarsha-k/Coding/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Prakarsha-k/Coding/tree/master/0951-partition-array-into-disjoint-intervals) |
+| [0952-word-subsets](https://github.com/Prakarsha-k/Coding/tree/master/0952-word-subsets) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Prakarsha-k/Coding/tree/master/0940-fruit-into-baskets) |
 | [0947-online-election](https://github.com/Prakarsha-k/Coding/tree/master/0947-online-election) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Prakarsha-k/Coding/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0952-word-subsets](https://github.com/Prakarsha-k/Coding/tree/master/0952-word-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/Prakarsha-k/Coding/tree/master/0926-find-and-replace-pattern) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/Prakarsha-k/Coding/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/Prakarsha-k/Coding/tree/master/0938-numbers-at-most-n-given-digit-set) |
+| [0952-word-subsets](https://github.com/Prakarsha-k/Coding/tree/master/0952-word-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
