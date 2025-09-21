@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Prakarsha-k/Coding/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/Prakarsha-k/Coding/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0940-fruit-into-baskets](https://github.com/Prakarsha-k/Coding/tree/master/0940-fruit-into-baskets) |
+| [0941-sort-array-by-parity](https://github.com/Prakarsha-k/Coding/tree/master/0941-sort-array-by-parity) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Prakarsha-k/Coding/tree/master/0874-backspace-string-compare) |
 | [0875-longest-mountain-in-array](https://github.com/Prakarsha-k/Coding/tree/master/0875-longest-mountain-in-array) |
 | [0917-boats-to-save-people](https://github.com/Prakarsha-k/Coding/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/Prakarsha-k/Coding/tree/master/0941-sort-array-by-parity) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prakarsha-k/Coding/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Prakarsha-k/Coding/tree/master/0917-boats-to-save-people) |
 | [0924-fair-candy-swap](https://github.com/Prakarsha-k/Coding/tree/master/0924-fair-candy-swap) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/Prakarsha-k/Coding/tree/master/0929-groups-of-special-equivalent-strings) |
+| [0941-sort-array-by-parity](https://github.com/Prakarsha-k/Coding/tree/master/0941-sort-array-by-parity) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Prakarsha-k/Coding/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Divide and Conquer
 |  |
