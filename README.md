@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/Prakarsha-k/Coding/tree/master/0883-car-fleet) |
 | [0886-score-of-parentheses](https://github.com/Prakarsha-k/Coding/tree/master/0886-score-of-parentheses) |
 | [0916-decoded-string-at-index](https://github.com/Prakarsha-k/Coding/tree/master/0916-decoded-string-at-index) |
+| [0937-online-stock-span](https://github.com/Prakarsha-k/Coding/tree/master/0937-online-stock-span) |
 ## Backtracking
 |  |
 | ------- |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Prakarsha-k/Coding/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prakarsha-k/Coding/tree/master/0232-implement-queue-using-stacks) |
 | [0885-exam-room](https://github.com/Prakarsha-k/Coding/tree/master/0885-exam-room) |
+| [0937-online-stock-span](https://github.com/Prakarsha-k/Coding/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0883-car-fleet](https://github.com/Prakarsha-k/Coding/tree/master/0883-car-fleet) |
+| [0937-online-stock-span](https://github.com/Prakarsha-k/Coding/tree/master/0937-online-stock-span) |
 ## Ordered Set
 |  |
 | ------- |
@@ -573,4 +576,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/Prakarsha-k/Coding/tree/master/0909-stone-game) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Prakarsha-k/Coding/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
