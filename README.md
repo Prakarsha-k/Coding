@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/Prakarsha-k/Coding/tree/master/0985-bag-of-tokens) |
 | [0986-largest-time-for-given-digits](https://github.com/Prakarsha-k/Coding/tree/master/0986-largest-time-for-given-digits) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Prakarsha-k/Coding/tree/master/0987-reveal-cards-in-increasing-order) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Prakarsha-k/Coding/tree/master/0990-verifying-an-alien-dictionary) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/Prakarsha-k/Coding/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prakarsha-k/Coding/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Prakarsha-k/Coding/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Prakarsha-k/Coding/tree/master/0990-verifying-an-alien-dictionary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Prakarsha-k/Coding/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Prakarsha-k/Coding/tree/master/0981-delete-columns-to-make-sorted) |
 | [0986-largest-time-for-given-digits](https://github.com/Prakarsha-k/Coding/tree/master/0986-largest-time-for-given-digits) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Prakarsha-k/Coding/tree/master/0990-verifying-an-alien-dictionary) |
 ## Dynamic Programming
 |  |
 | ------- |
