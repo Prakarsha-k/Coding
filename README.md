@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Prakarsha-k/Coding/tree/master/1031-add-to-array-form-of-integer) |
 | [1033-broken-calculator](https://github.com/Prakarsha-k/Coding/tree/master/1033-broken-calculator) |
 | [1048-clumsy-factorial](https://github.com/Prakarsha-k/Coding/tree/master/1048-clumsy-factorial) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/Prakarsha-k/Coding/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Array
 |  |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Prakarsha-k/Coding/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/Prakarsha-k/Coding/tree/master/1044-find-common-characters) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Prakarsha-k/Coding/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/Prakarsha-k/Coding/tree/master/1064-smallest-integer-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
