@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Prakarsha-k/Coding/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/Prakarsha-k/Coding/tree/master/0876-hand-of-straights) |
 | [0889-buddy-strings](https://github.com/Prakarsha-k/Coding/tree/master/0889-buddy-strings) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Prakarsha-k/Coding/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/0226-invert-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Prakarsha-k/Coding/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/0226-invert-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/0226-invert-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/Prakarsha-k/Coding/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/Prakarsha-k/Coding/tree/master/0881-loud-and-rich) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -433,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Prakarsha-k/Coding/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/0226-invert-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/Prakarsha-k/Coding/tree/master/0871-keys-and-rooms) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
