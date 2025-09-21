@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Prakarsha-k/Coding/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Prakarsha-k/Coding/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Prakarsha-k/Coding/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1063-best-sightseeing-pair](https://github.com/Prakarsha-k/Coding/tree/master/1063-best-sightseeing-pair) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Prakarsha-k/Coding/tree/master/1013-fibonacci-number) |
 | [1020-longest-turbulent-subarray](https://github.com/Prakarsha-k/Coding/tree/master/1020-longest-turbulent-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/Prakarsha-k/Coding/tree/master/1025-minimum-cost-for-tickets) |
+| [1063-best-sightseeing-pair](https://github.com/Prakarsha-k/Coding/tree/master/1063-best-sightseeing-pair) |
 ## Recursion
 |  |
 | ------- |
