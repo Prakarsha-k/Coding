@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prakarsha-k/Coding/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Prakarsha-k/Coding/tree/master/0904-leaf-similar-trees) |
+| [0955-complete-binary-tree-inserter](https://github.com/Prakarsha-k/Coding/tree/master/0955-complete-binary-tree-inserter) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prakarsha-k/Coding/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Prakarsha-k/Coding/tree/master/0904-leaf-similar-trees) |
+| [0955-complete-binary-tree-inserter](https://github.com/Prakarsha-k/Coding/tree/master/0955-complete-binary-tree-inserter) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prakarsha-k/Coding/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0922-possible-bipartition](https://github.com/Prakarsha-k/Coding/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/Prakarsha-k/Coding/tree/master/0945-snakes-and-ladders) |
+| [0955-complete-binary-tree-inserter](https://github.com/Prakarsha-k/Coding/tree/master/0955-complete-binary-tree-inserter) |
 ## Union Find
 |  |
 | ------- |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-exam-room](https://github.com/Prakarsha-k/Coding/tree/master/0885-exam-room) |
 | [0937-online-stock-span](https://github.com/Prakarsha-k/Coding/tree/master/0937-online-stock-span) |
 | [0947-online-election](https://github.com/Prakarsha-k/Coding/tree/master/0947-online-election) |
+| [0955-complete-binary-tree-inserter](https://github.com/Prakarsha-k/Coding/tree/master/0955-complete-binary-tree-inserter) |
 ## Queue
 |  |
 | ------- |
