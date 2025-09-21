@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Prakarsha-k/Coding/tree/master/0383-ransom-note) |
 | [0870-magic-squares-in-grid](https://github.com/Prakarsha-k/Coding/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/Prakarsha-k/Coding/tree/master/0876-hand-of-straights) |
+| [0889-buddy-strings](https://github.com/Prakarsha-k/Coding/tree/master/0889-buddy-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Prakarsha-k/Coding/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/Prakarsha-k/Coding/tree/master/0878-shifting-letters) |
 | [0886-score-of-parentheses](https://github.com/Prakarsha-k/Coding/tree/master/0886-score-of-parentheses) |
+| [0889-buddy-strings](https://github.com/Prakarsha-k/Coding/tree/master/0889-buddy-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
