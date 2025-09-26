@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-broken-calculator](https://github.com/Prakarsha-k/Coding/tree/master/1033-broken-calculator) |
 | [1048-clumsy-factorial](https://github.com/Prakarsha-k/Coding/tree/master/1048-clumsy-factorial) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Prakarsha-k/Coding/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1307-ugly-number-iii](https://github.com/Prakarsha-k/Coding/tree/master/1307-ugly-number-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Array
 |  |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-online-election](https://github.com/Prakarsha-k/Coding/tree/master/0947-online-election) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prakarsha-k/Coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Prakarsha-k/Coding/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1307-ugly-number-iii](https://github.com/Prakarsha-k/Coding/tree/master/1307-ugly-number-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-mirror-reflection](https://github.com/Prakarsha-k/Coding/tree/master/0888-mirror-reflection) |
 | [0897-prime-palindrome](https://github.com/Prakarsha-k/Coding/tree/master/0897-prime-palindrome) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Prakarsha-k/Coding/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1307-ugly-number-iii](https://github.com/Prakarsha-k/Coding/tree/master/1307-ugly-number-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -876,4 +879,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Prakarsha-k/Coding/tree/master/0062-unique-paths) |
+| [1307-ugly-number-iii](https://github.com/Prakarsha-k/Coding/tree/master/1307-ugly-number-iii) |
 <!---LeetCode Topics End-->
