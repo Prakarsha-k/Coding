@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-binary-prefix-divisible-by-5](https://github.com/Prakarsha-k/Coding/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1168-duplicate-zeros](https://github.com/Prakarsha-k/Coding/tree/master/1168-duplicate-zeros) |
 | [1169-largest-values-from-labels](https://github.com/Prakarsha-k/Coding/tree/master/1169-largest-values-from-labels) |
+| [1184-car-pooling](https://github.com/Prakarsha-k/Coding/tree/master/1184-car-pooling) |
 | [1306-minimum-absolute-difference](https://github.com/Prakarsha-k/Coding/tree/master/1306-minimum-absolute-difference) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Prakarsha-k/Coding/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Prakarsha-k/Coding/tree/master/1019-squares-of-a-sorted-array) |
 | [1169-largest-values-from-labels](https://github.com/Prakarsha-k/Coding/tree/master/1169-largest-values-from-labels) |
+| [1184-car-pooling](https://github.com/Prakarsha-k/Coding/tree/master/1184-car-pooling) |
 | [1306-minimum-absolute-difference](https://github.com/Prakarsha-k/Coding/tree/master/1306-minimum-absolute-difference) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Prakarsha-k/Coding/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Divide and Conquer
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Prakarsha-k/Coding/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1041-available-captures-for-rook](https://github.com/Prakarsha-k/Coding/tree/master/1041-available-captures-for-rook) |
 | [1048-clumsy-factorial](https://github.com/Prakarsha-k/Coding/tree/master/1048-clumsy-factorial) |
+| [1184-car-pooling](https://github.com/Prakarsha-k/Coding/tree/master/1184-car-pooling) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prakarsha-k/Coding/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Enumeration
 |  |
@@ -798,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Prakarsha-k/Coding/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Prakarsha-k/Coding/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prakarsha-k/Coding/tree/master/1046-max-consecutive-ones-iii) |
+| [1184-car-pooling](https://github.com/Prakarsha-k/Coding/tree/master/1184-car-pooling) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -805,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Prakarsha-k/Coding/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0885-exam-room](https://github.com/Prakarsha-k/Coding/tree/master/0885-exam-room) |
 | [0948-sort-an-array](https://github.com/Prakarsha-k/Coding/tree/master/0948-sort-an-array) |
+| [1184-car-pooling](https://github.com/Prakarsha-k/Coding/tree/master/1184-car-pooling) |
 ## Quickselect
 |  |
 | ------- |
