@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/Prakarsha-k/Coding/tree/master/1184-car-pooling) |
 | [1306-minimum-absolute-difference](https://github.com/Prakarsha-k/Coding/tree/master/1306-minimum-absolute-difference) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Prakarsha-k/Coding/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakarsha-k/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Prakarsha-k/Coding/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-largest-values-from-labels](https://github.com/Prakarsha-k/Coding/tree/master/1169-largest-values-from-labels) |
 | [1184-car-pooling](https://github.com/Prakarsha-k/Coding/tree/master/1184-car-pooling) |
 | [1306-minimum-absolute-difference](https://github.com/Prakarsha-k/Coding/tree/master/1306-minimum-absolute-difference) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Prakarsha-k/Coding/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Prakarsha-k/Coding/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Divide and Conquer
 |  |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Prakarsha-k/Coding/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Prakarsha-k/Coding/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1169-largest-values-from-labels](https://github.com/Prakarsha-k/Coding/tree/master/1169-largest-values-from-labels) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Prakarsha-k/Coding/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 ## Database
 |  |
 | ------- |
@@ -810,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Prakarsha-k/Coding/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prakarsha-k/Coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/Prakarsha-k/Coding/tree/master/1184-car-pooling) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Prakarsha-k/Coding/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
