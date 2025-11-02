@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Prakarsha-k/Coding/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1306-minimum-absolute-difference](https://github.com/Prakarsha-k/Coding/tree/master/1306-minimum-absolute-difference) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prakarsha-k/Coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Prakarsha-k/Coding/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Prakarsha-k/Coding/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Prakarsha-k/Coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Prakarsha-k/Coding/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1307-ugly-number-iii](https://github.com/Prakarsha-k/Coding/tree/master/1307-ugly-number-iii) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prakarsha-k/Coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Prakarsha-k/Coding/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Bit Manipulation
 |  |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/Prakarsha-k/Coding/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/Prakarsha-k/Coding/tree/master/0999-regions-cut-by-slashes) |
 | [1041-available-captures-for-rook](https://github.com/Prakarsha-k/Coding/tree/master/1041-available-captures-for-rook) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prakarsha-k/Coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 ## Linked List
 |  |
