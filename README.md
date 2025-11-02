@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-broken-calculator](https://github.com/Prakarsha-k/Coding/tree/master/1033-broken-calculator) |
 | [1048-clumsy-factorial](https://github.com/Prakarsha-k/Coding/tree/master/1048-clumsy-factorial) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Prakarsha-k/Coding/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1274-number-of-days-between-two-dates](https://github.com/Prakarsha-k/Coding/tree/master/1274-number-of-days-between-two-dates) |
 | [1307-ugly-number-iii](https://github.com/Prakarsha-k/Coding/tree/master/1307-ugly-number-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Array
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/Prakarsha-k/Coding/tree/master/1032-satisfiability-of-equality-equations) |
 | [1044-find-common-characters](https://github.com/Prakarsha-k/Coding/tree/master/1044-find-common-characters) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Prakarsha-k/Coding/tree/master/1045-check-if-word-is-valid-after-substitutions) |
+| [1274-number-of-days-between-two-dates](https://github.com/Prakarsha-k/Coding/tree/master/1274-number-of-days-between-two-dates) |
 ## Dynamic Programming
 |  |
 | ------- |
