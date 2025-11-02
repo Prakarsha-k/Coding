@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/Prakarsha-k/Coding/tree/master/1306-minimum-absolute-difference) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prakarsha-k/Coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prakarsha-k/Coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Prakarsha-k/Coding/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Prakarsha-k/Coding/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Prakarsha-k/Coding/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Prakarsha-k/Coding/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1169-largest-values-from-labels](https://github.com/Prakarsha-k/Coding/tree/master/1169-largest-values-from-labels) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prakarsha-k/Coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/Prakarsha-k/Coding/tree/master/1184-car-pooling) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Prakarsha-k/Coding/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1306-minimum-absolute-difference](https://github.com/Prakarsha-k/Coding/tree/master/1306-minimum-absolute-difference) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prakarsha-k/Coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Prakarsha-k/Coding/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Prakarsha-k/Coding/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Prakarsha-k/Coding/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -905,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Prakarsha-k/Coding/tree/master/0948-sort-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prakarsha-k/Coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Monotonic Queue
 |  |
 | ------- |
