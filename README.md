@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/Prakarsha-k/Coding/tree/master/1044-find-common-characters) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Prakarsha-k/Coding/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1274-number-of-days-between-two-dates](https://github.com/Prakarsha-k/Coding/tree/master/1274-number-of-days-between-two-dates) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Prakarsha-k/Coding/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 ## Dynamic Programming
 |  |
 | ------- |
