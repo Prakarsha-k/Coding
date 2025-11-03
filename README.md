@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-broken-calculator](https://github.com/Prakarsha-k/Coding/tree/master/1033-broken-calculator) |
 | [1048-clumsy-factorial](https://github.com/Prakarsha-k/Coding/tree/master/1048-clumsy-factorial) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Prakarsha-k/Coding/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1113-moving-stones-until-consecutive-ii](https://github.com/Prakarsha-k/Coding/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1274-number-of-days-between-two-dates](https://github.com/Prakarsha-k/Coding/tree/master/1274-number-of-days-between-two-dates) |
 | [1307-ugly-number-iii](https://github.com/Prakarsha-k/Coding/tree/master/1307-ugly-number-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prakarsha-k/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/Prakarsha-k/Coding/tree/master/1063-best-sightseeing-pair) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Prakarsha-k/Coding/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1104-coloring-a-border](https://github.com/Prakarsha-k/Coding/tree/master/1104-coloring-a-border) |
+| [1113-moving-stones-until-consecutive-ii](https://github.com/Prakarsha-k/Coding/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1168-duplicate-zeros](https://github.com/Prakarsha-k/Coding/tree/master/1168-duplicate-zeros) |
 | [1169-largest-values-from-labels](https://github.com/Prakarsha-k/Coding/tree/master/1169-largest-values-from-labels) |
 | [1184-car-pooling](https://github.com/Prakarsha-k/Coding/tree/master/1184-car-pooling) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-pancake-sorting](https://github.com/Prakarsha-k/Coding/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/Prakarsha-k/Coding/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Prakarsha-k/Coding/tree/master/1019-squares-of-a-sorted-array) |
+| [1113-moving-stones-until-consecutive-ii](https://github.com/Prakarsha-k/Coding/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1169-largest-values-from-labels](https://github.com/Prakarsha-k/Coding/tree/master/1169-largest-values-from-labels) |
 | [1184-car-pooling](https://github.com/Prakarsha-k/Coding/tree/master/1184-car-pooling) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Prakarsha-k/Coding/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Prakarsha-k/Coding/tree/master/0966-binary-subarrays-with-sum) |
 | [1020-longest-turbulent-subarray](https://github.com/Prakarsha-k/Coding/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prakarsha-k/Coding/tree/master/1046-max-consecutive-ones-iii) |
+| [1113-moving-stones-until-consecutive-ii](https://github.com/Prakarsha-k/Coding/tree/master/1113-moving-stones-until-consecutive-ii) |
 ## Greedy
 |  |
 | ------- |
