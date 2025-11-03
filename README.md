@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Prakarsha-k/Coding/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1063-best-sightseeing-pair](https://github.com/Prakarsha-k/Coding/tree/master/1063-best-sightseeing-pair) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Prakarsha-k/Coding/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1104-coloring-a-border](https://github.com/Prakarsha-k/Coding/tree/master/1104-coloring-a-border) |
 | [1168-duplicate-zeros](https://github.com/Prakarsha-k/Coding/tree/master/1168-duplicate-zeros) |
 | [1169-largest-values-from-labels](https://github.com/Prakarsha-k/Coding/tree/master/1169-largest-values-from-labels) |
 | [1184-car-pooling](https://github.com/Prakarsha-k/Coding/tree/master/1184-car-pooling) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/Prakarsha-k/Coding/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/Prakarsha-k/Coding/tree/master/0999-regions-cut-by-slashes) |
 | [1041-available-captures-for-rook](https://github.com/Prakarsha-k/Coding/tree/master/1041-available-captures-for-rook) |
+| [1104-coloring-a-border](https://github.com/Prakarsha-k/Coding/tree/master/1104-coloring-a-border) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prakarsha-k/Coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Prakarsha-k/Coding/tree/master/1791-richest-customer-wealth) |
 ## Linked List
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Prakarsha-k/Coding/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Prakarsha-k/Coding/tree/master/0999-regions-cut-by-slashes) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Prakarsha-k/Coding/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1104-coloring-a-border](https://github.com/Prakarsha-k/Coding/tree/master/1104-coloring-a-border) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -791,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/Prakarsha-k/Coding/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/Prakarsha-k/Coding/tree/master/0999-regions-cut-by-slashes) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/Prakarsha-k/Coding/tree/master/1007-numbers-with-same-consecutive-differences) |
+| [1104-coloring-a-border](https://github.com/Prakarsha-k/Coding/tree/master/1104-coloring-a-border) |
 ## Union Find
 |  |
 | ------- |
