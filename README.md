@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/Prakarsha-k/Coding/tree/master/1044-find-common-characters) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Prakarsha-k/Coding/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1119-robot-bounded-in-circle](https://github.com/Prakarsha-k/Coding/tree/master/1119-robot-bounded-in-circle) |
+| [1250-longest-common-subsequence](https://github.com/Prakarsha-k/Coding/tree/master/1250-longest-common-subsequence) |
 | [1274-number-of-days-between-two-dates](https://github.com/Prakarsha-k/Coding/tree/master/1274-number-of-days-between-two-dates) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Prakarsha-k/Coding/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 ## Dynamic Programming
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/Prakarsha-k/Coding/tree/master/1020-longest-turbulent-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/Prakarsha-k/Coding/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Prakarsha-k/Coding/tree/master/1063-best-sightseeing-pair) |
+| [1250-longest-common-subsequence](https://github.com/Prakarsha-k/Coding/tree/master/1250-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
